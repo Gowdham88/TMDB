@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  The movies
 //
-//  Created by Paramesh on 13/08/17.
-//  Copyright © 2017 Paramesh. All rights reserved.
+//  Created by Mac on 13/08/17.
+//  Copyright © 2017 Mac. All rights reserved.
 //
 
 import UIKit
